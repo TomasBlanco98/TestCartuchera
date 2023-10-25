@@ -1,0 +1,5 @@
+C:\Users\alumno\source\repos\Cartuchera\TestCartuchera\obj\Debug\net6.0\TestCartuchera.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\Cartuchera\TestCartuchera\obj\Debug\net6.0\TestCartuchera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\Cartuchera\TestCartuchera\obj\Debug\net6.0\TestCartuchera.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\Cartuchera\TestCartuchera\obj\Debug\net6.0\TestCartuchera.AssemblyInfo.cs
+C:\Users\alumno\source\repos\Cartuchera\TestCartuchera\obj\Debug\net6.0\TestCartuchera.csproj.CoreCompileInputs.cache
